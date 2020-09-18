@@ -1,0 +1,12 @@
+__pycache__
+models/__pycache__
+resources/__pycache__
+schema/__pycache__
+.vscode
+.DS_Store
+static/.DS_Store
+static/images/.DS_Store
+
+Pipfile
+Pipfile.lock
+config.py
